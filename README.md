@@ -19,7 +19,7 @@ This project focuses on cleaning and preparing the Customer Personality Analysis
 - Google Colab
 
 ## Dataset
-Customer Personality Analysis Dataset from Kaggle.
+Customer Personality Analysis Dataset from Kaggle. (https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
 ## Key Insights
 - Most customers have moderate income levels with a few high-income outliers.
