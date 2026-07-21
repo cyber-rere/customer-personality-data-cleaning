@@ -1,6 +1,6 @@
 # Customer Personality Data Cleaning
 ## Project Overview
-This project focuses on cleaning and preparing the Customer Personality Analysis dataset for analysis.
+This project focuses on cleaning and preparing the Customer Personality Analysis dataset for analysis. It involves handling missing data, standardizing variables, and treating outliers to ensure the dataset is ready for further exploratory data analysis (EDA) and modeling.
 
 ## Data Cleaning Tasks
 - Handled missing values
