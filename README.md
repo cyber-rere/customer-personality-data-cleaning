@@ -22,6 +22,11 @@ This project focuses on cleaning and preparing the Customer Personality Analysis
 Customer Personality Analysis Dataset from Kaggle.
 
 ## Key Insights
-- Income contains a few high-income outliers.
-- Several categorical inconsistencies were corrected.
-- A small number of unrealistic age values
+- Most customers have moderate income levels with a few high-income outliers.
+- The dataset contains a small number of missing values in the Income column.
+- Some categorical inconsistencies were found in Marital Status.
+- Age distribution shows a few unrealistic values that were treated as outliers.
+- Spending behavior varies significantly across customers, indicating different customer segments.
+
+## Conclusion
+In conclusion, the dataset was successfully cleaned by handling missing values, correcting inconsistencies, and treating outliers, making it ready for further analysis.
